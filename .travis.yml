@@ -1,0 +1,4 @@
+language: scala
+jdk:
+- oraclejdk7
+sbt_args: -sbt-dir ci
